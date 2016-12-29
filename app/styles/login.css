@@ -1,0 +1,81 @@
+.form-container {
+  margin: 0 auto;
+  max-width: 280px;
+}
+
+.email-form-container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.email-form {
+  font-size: 18px;
+  padding-top: 20px;
+}
+
+.email-icon-container {
+  float: left;
+  padding-top: 22px;
+}
+
+.password-form-container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.password-form {
+  font-size: 18px;
+  text-align: center;
+}
+
+.password-icon-container {
+  float: left;
+  padding-top: 22px;
+}
+
+.checkbox-container {
+  font-size: 16px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.checkbox {
+  vertical-align: top;
+  width: 165px !important;
+}
+
+.sign-in-button-container {
+  font-size: 18px;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.sign-in-button {
+  text-align: center;
+  position: relative;
+  height: 47px;
+  color: #fff;
+  background-color: black;
+  width: 75%;
+  max-width: 285px;
+  margin-top: 15px;
+  border: none;
+  border-radius: 3rem;
+  font-size: 16px;
+  font-weight: 100;
+  outline: none;
+}
+
+.forgot-password, .back-to-sign-in {
+  font-size: 16px;
+  color: #5A5A5A;
+  text-align: center;
+  padding-top: 30px;
+  bottom: 10px;
+}
+
+.loading {
+  transition: 0.2s;
+  width: 48px;
+  font-size: 0;
+}
